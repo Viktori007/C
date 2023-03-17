@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678992532 source:d:\codes\qee\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

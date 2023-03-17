@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679090538 source:d:\codes\win\okno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
