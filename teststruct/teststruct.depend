@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702268457 source:c:\users\victoria\cu\teststruct\main.c
+	<stdio.h>
+	<stdlib.h>
+
